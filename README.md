@@ -11,4 +11,4 @@ Como a ideia é criar um site institucional, resolvi utilizar o framework Bootst
 
 # Demonstração
 O site está no ar neste link:  
-[igorpedra.github.io/bootstrap-site-responsivo-restaurante](https://igorpedra.github.io/bootstrap-site-responsivo-restaurante/)
+<a href="https://igorpedra.github.io/bootstrap-site-responsivo-restaurante/" target="_blank">igorpedra.github.io/bootstrap-site-responsivo-restaurante</a>
