@@ -120,16 +120,47 @@ div#textocardapiobanner{
     transform: translate(-50%, -50%);
 }
 
-/*Cardápio Almoço*/
-div#titutloalmoço{
+/*Título*/
+div#titutloalmocooujantar{
     color: #e3e2e0;
     position: relative;
     height: 60px;
 }
 
-div#titutloalmoço2{
+div#titutloalmocooujantar2{
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+/*Pratos*/
+div#pratodiv{
+    color: #353130;
+    position: relative;
+    margin-top: 15px;
+    margin-right: 12px;
+    height: 200px;
+}
+
+div#pratodiv2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+div#prato1{
+    background-image: url(../img/cardapio/prato1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 12px;
+    height: 200px;
+}
+
+
+/**/
