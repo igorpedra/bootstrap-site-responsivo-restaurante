@@ -8,3 +8,7 @@ Espera-se como resposta desta atividade avaliativa que o aluno consiga implement
 # Minha proposta
 Imaginei uma empresa fictícia para a criação deste site, um restaurante de comida mineira.  
 Como a ideia é criar um site institucional, resolvi utilizar o framework Bootstrap, pois com ele posso criar de forma eficiente um site responsivo para a apresentação de uma empresa, juntamente com seu catálogo de produtos, que neste caso é o cardápio do restaurante.
+
+# Demonstração
+O site está no ar neste link:  
+https://igorpedra.github.io/bootstrap-site-responsivo-restaurante/
