@@ -119,3 +119,17 @@ div#textocardapiobanner{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+/*Cardápio Almoço*/
+div#titutloalmoço{
+    color: #e3e2e0;
+    position: relative;
+    height: 60px;
+}
+
+div#titutloalmoço2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
