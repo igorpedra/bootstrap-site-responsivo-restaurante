@@ -148,11 +148,11 @@ div#pratodiv2{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-align: center;
 }
 
 
 div#prato1{
-    background-image: url(../img/cardapio/prato1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
